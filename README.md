@@ -1,6 +1,7 @@
 # IoTTalkArduinoWithESP8266 - Arduino_ESP8266_csmapi.ino
 
 This is a case using Adruino + ESP8266 to communicate to IoTTalk.<BR>
+ESP8266 Use UART to communicate with Arduino.<BR>
 In  Arduino_ESP8266_csmapi.ino, there are 4 function to communicate to IoTTalk on HTTP:<BR>
 
 boolean ECregister(String MAC,String Profile)<BR>
